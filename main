@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sherwood Lovehead Energy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #003366;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    .contact {
+      background: #e9ecef;
+      padding: 1rem;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sherwood Lovehead Energy</h1>
+    <p>Global Crude Oil & LNG Trade Facilitators</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Sherwood Lovehead Energy is a boutique energy brokerage firm specializing in international crude oil and liquefied natural gas (LNG) transactions. We connect suppliers and buyers across global markets, offering bespoke trade facilitation services with an emphasis on speed, security, and reliability.</p>
+
+    <h2>Services</h2>
+    <ul>
+      <li>Crude Oil & LNG sourcing</li>
+      <li>End-to-end trade facilitation</li>
+      <li>Supply chain logistics consulting</li>
+      <li>Contract negotiation and documentation support</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <div class="contact">
+      <p>Email: contact@sherwoodlovehead.com</p>
+      <p>Phone: +1 (843) 804-1113</p>
+      <p>Office: 123 Global Trade Ave, Houston, TX</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Sherwood Lovehead Energy. All rights reserved.</p>
+  </footer>
+</body>
+</html>
